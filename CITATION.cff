@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite the paper and dataset below."
+title: "Replication code: Sexism and the eco-gender gap in climate attitudes across 30 European countries"
+authors:
+  - family-names: Aziz
+    given-names: Mudassar
+    affiliation: "University of Oslo"
+    email: mudassar.aziz35@gmail.com
+version: "1.0.0"
+date-released: "2026-07-14"
+license: MIT
+keywords:
+  - climate change attitudes
+  - sexism
+  - gender
+  - European Social Survey
+  - multilevel models
+  - reproducibility
+abstract: >-
+  Analysis pipeline for a cross-national study of the relationship between sexism, gendered
+  self-identity and climate change attitudes using European Social Survey Round 11 (2023-24, 30
+  countries). Reproduces all statistics and figures in the manuscript, including the contextual
+  moderation showing the sexism-climate link steepens with national gender equality rather than
+  fossil-fuel dependence.
+references:
+  - type: data
+    title: "ESS11 - integrated file, edition 4.2"
+    authors:
+      - name: "European Social Survey European Research Infrastructure (ESS ERIC)"
+    year: 2025
+    doi: 10.21338/ess11e04_2
+    publisher:
+      name: "Sikt - Norwegian Agency for Shared Services in Education and Research"

@@ -1,0 +1,9 @@
+# Exact versions used to produce the results in the manuscript (Python 3.11.15).
+# Pinned for faithful reproduction. The analysis relies on stable APIs, so newer
+# patch releases within each minor version reproduce the same numbers.
+pandas==3.0.2
+numpy==2.4.4
+scipy==1.17.1
+statsmodels==0.14.6
+matplotlib==3.10.9
+pyarrow==25.0.0
